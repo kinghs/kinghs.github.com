@@ -1,6 +1,6 @@
 # Site settings
 title: KingHS的博客
-email: me@wanggushi.com
+email: me@wanggushi.cn
 description: > # 欢迎来到KingHS的博客，在这里分享一切。
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://kinghs.github.io" # the base hostname & protocol for your site
