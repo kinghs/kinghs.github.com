@@ -1,7 +1,0 @@
----
-layout:	post
-title:	"C"
-date:	2014-10-10	21:30:30
-categories:	C
----
-第一篇C
